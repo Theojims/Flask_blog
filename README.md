@@ -2,7 +2,7 @@
 
 ### Overview
 
-* This is a Django blog project, designed to provide a simple and efficient platform for creating and managing blog posts. The project includes features such as user authentication, post creation.
+* This is a Flask blog project, designed to provide a simple and efficient platform for creating and managing blog posts. The project includes features such as user authentication, post creation.
 
 ### Features
 
